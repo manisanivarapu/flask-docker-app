@@ -14,3 +14,7 @@ This is a simple Flask web application containerized using Docker.
 ```bash
 git clone https://github.com/manisanivarapu/flask-docker-app.git
 cd flask-docker-app
+## Screenshot
+
+![Flask App](flaskapp-screenshot.png)
+
